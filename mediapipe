@@ -1,0 +1,4 @@
+Project Overview
+This project implements real-time human pose detection using MediaPipe and OpenCV in Python.
+The model detects body landmarks from a video and visualizes keypoints on the human body.
+The project was developed and executed using Google Colab.
